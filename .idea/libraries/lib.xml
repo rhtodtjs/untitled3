@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://D:/BDO Projects/BDO_GAME_ZONE/DARKBDOServer/Server/gameserver/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/BDO Projects/BDO_GAME_ZONE/DARKBDOServer/Server/gameserver/lib" />
+    </SOURCES>
+    <jarDirectory url="file://D:/BDO Projects/BDO_GAME_ZONE/DARKBDOServer/Server/gameserver/lib" recursive="false" />
+    <jarDirectory url="file://D:/BDO Projects/BDO_GAME_ZONE/DARKBDOServer/Server/gameserver/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
